@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="QrCodeDatabase"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="src" path="required-jars"/>
+	<classpathentry kind="lib" path="required-jars/AnimatonClass.jar"/>
+	<classpathentry kind="lib" path="required-jars/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="required-jars/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="lib" path="required-jars/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="lib" path="required-jars/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="required-jars/swingx-1.6.1.jar"/>
+	<classpathentry kind="lib" path="required-jars/webcam-capture-0.3.10.jar"/>
+	<classpathentry kind="lib" path="required-jars/zxing-1.7-javase.jar"/>
+	<classpathentry kind="lib" path="required-jars/zxing-core-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
